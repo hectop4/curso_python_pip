@@ -6,3 +6,13 @@ cd game
 python3 main.py
 ```
 
+
+# App Project
+
+```sh
+git clone
+cd app
+source myenv/bin/activate
+pip3 install -r requirementes.txt
+python3 main.py
+```
